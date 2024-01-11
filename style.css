@@ -1,0 +1,29 @@
+.news-table {
+    width:100%;
+  }
+
+.heading {
+    background-color: #F9F9F9;
+    font-weight: 700;
+  }
+
+.id-data {
+    font-weight: 700;
+  }
+
+.title-data {
+    font-weight: 500;
+  }
+
+.date-data {
+    font-weight: 500;
+    color: #FF0000;
+  }
+
+.edit-button {
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    border: none;
+    font-weight: 500;
+  }
